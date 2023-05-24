@@ -3,6 +3,4 @@
 ## Fabrizio Diaz
 
 
-**Texto en negrita**
-
-_Texto en itálica_
+Subo mi primer trabajo de p5js 
